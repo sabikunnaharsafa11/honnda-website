@@ -10,15 +10,29 @@
 .img-size img{
     width:18rem;
 }
+
 .client{
     position: static;
     width: 149px;
     height: 149px;
-    left: calc(50%-149px/2);
+    left: calc(50% - 149px/2);
     top: 40px;
-   
  }
+ .fa-star.filled{
+    color: yellowgreen;
+}
+.fa-star.empty{
+    color: lightgray;
+}
+.regina{
+    color: #23A6F0;
+    font-size: 14px;
+line-height: 24px;
+}
+  strong{
+      color: #E76F51;
+  }
+  span{
+    color: #E76F51;
 
- .text-color{
-     color: #23A6F0;
- }
+  }
