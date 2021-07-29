@@ -4,10 +4,12 @@
 }
 
 .button-color{
-    background-color:#E76F51 ;
     color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #E76F51 100%);
 }
-
 .img-size img{
     width:18rem;
 }
@@ -16,6 +18,9 @@
     color: #E76F51;
 }
 
+.text-color{
+    color: black;
+}
   .gray{
     filter: grayscale(100%)
   }
