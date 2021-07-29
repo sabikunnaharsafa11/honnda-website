@@ -3,7 +3,7 @@
     
 }
 
-.color{
+.button-color{
     color: #E76F51;
 }
 
@@ -35,4 +35,8 @@ line-height: 24px;
   span{
     color: #E76F51;
 
+  }
+
+  .gray{
+    filter: grayscale(100%)
   }
