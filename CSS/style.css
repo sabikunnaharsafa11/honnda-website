@@ -10,9 +10,6 @@
     padding: 9px 25px;
     background-image: linear-gradient(to bottom, #FF589B 0%, #E76F51 100%);
 }
-.img-size img{
-    width:18rem;
-}
 
 .span-color{
     color: #E76F51;
