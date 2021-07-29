@@ -16,4 +16,9 @@
     height: 149px;
     left: calc(50%-149px/2);
     top: 40px;
+   
+ }
+
+ .text-color{
+     color: #23A6F0;
  }
